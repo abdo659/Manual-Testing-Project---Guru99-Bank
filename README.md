@@ -1,6 +1,7 @@
 Manual Testing Project – Guru99 Bank Website
 
 
+
 This project demonstrates a complete Manual Testing workflow on the Guru99 Bank website, simulating real-world QA practices used in software projects.
 
 It covers:
