@@ -6,6 +6,13 @@ This project demonstrates a complete Manual Testing workflow on the Guru99 Bank 
 It covers:
 
 Reviewing 4 versions of the SRS to track requirement changes
+📄 SRS Versions Used in the Project:
+
+• SRS V2: Link to Document
+
+• SRS V3: Link to Document
+
+• SRS V4: Link to Document
 
 Designing detailed test cases
 
